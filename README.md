@@ -13,7 +13,7 @@ Sou um desenvolvedor em aprendizado contínuo.
 Utilizo este GitHub para documentar projetos de estudo, experimentos e prática técnica,
 com foco em aprender por meio da implementação.
 
-Grande parte dos projetos utiliza phyton, Java, JS , priorizando experimentação,
+Grande parte dos projetos utiliza phyton, Java, JS e etc. priorizando experimentação,
 validação de conceitos e aprendizado prático.
 
 ### 🧠 Áreas de interesse
@@ -35,7 +35,7 @@ I am a developer in continuous learning.
 This GitHub is used to document study projects, experiments,
 and hands-on practice, focusing on learning through implementation.
 
-Most projects use phyton, Java, JS , prioritizing experimentation,
+Most projects use phyton, Java, JS e etc. prioritizing experimentation,
 concept validation, and practical learning.
 
 ### 🧠 Areas of Interest
