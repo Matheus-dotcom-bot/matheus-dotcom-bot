@@ -1,7 +1,15 @@
 <a href="https://app.rocketseat.com.br/me/matheus-boeira-pedroso"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-boeira-pedroso&type=card" width="280" alt="Matheus Boeira Pedroso's Rocket ID"/></a>
 
 
-<script> src="https://whatsa.me/bt-min.js?link=https://whatsa.me/5551992115015/?t=Hyperion%20Cybesecurity"></script>
+
+<!-- WhatsApp Floating Button HTML -->
+<div id="whatsapp-button">
+  <!-- Replace 1123456789 with your full phone number including country code -->
+  <a href="https://wa.me/5551992115015" target="_blank">
+    <!-- You can use your own image URL or an SVG icon -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" />
+  </a>
+</div>
 
 
 
