@@ -1,7 +1,7 @@
 <a href="https://app.rocketseat.com.br/me/matheus-boeira-pedroso"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-boeira-pedroso&type=card" width="280" alt="Matheus Boeira Pedroso's Rocket ID"/></a>
 
 
-<script src="https://whatsa.me/bt-min.js?link=https://whatsa.me/5551992115015/?t=Hyperion%20Cybesecurity"></script>
+<script> src="https://whatsa.me/bt-min.js?link=https://whatsa.me/5551992115015/?t=Hyperion%20Cybesecurity"></script>
 
 
 
