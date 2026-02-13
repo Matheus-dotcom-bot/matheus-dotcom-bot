@@ -6,51 +6,63 @@
 
 
 
-# Matheus Boeira Pedroso
-**AI Engineer • Software Architect • Full-Stack Builder**
+⚡ Matheus Boeira Pedroso
+AI Systems • Cybersecurity • Scalable Architecture
 
-I build scalable software and AI-driven systems with an emphasis on **architecture, performance, automation, and secure engineering**.
+Building AI-native systems with security-first architecture and product-driven execution.
 
-- **Focus:** AI Engineering, System Design, Automation, Security
-- **Approach:** Product mindset + engineering rigor
-- **Goal:** Contribute to high-impact innovation projects
+🧠 Mission
 
----
+To design and deploy intelligent, secure and scalable digital systems
+where AI is infrastructure, not feature.
 
-## What I Do
-- Design and implement **scalable architectures** (modular, maintainable, production-ready)
-- Build **AI-enabled workflows** to increase productivity and reduce operational overhead
-- Develop **full-stack applications** with strong UX and performance constraints
-- Apply **security-first** thinking across code, data, and deployments
+🚀 What I'm Building
 
----
+AI-powered applications
 
-## Tech Stack
-**Languages:** Python • TypeScript • JavaScript • SQL  
-**Frontend:** React • Next.js • TailwindCSS  
-**Backend:** Node.js • REST APIs • Modular Architecture  
-**DevOps/Cloud:** CI/CD • GitHub Actions • Vercel  
+Secure digital platforms
 
----
+Automation systems for operational leverage
 
-## Featured Project
-### Hyperion Cyber Platform
-A modern platform focused on performance-driven UI and clean architecture.
+Modular, scalable web architectures
 
-- **Live:** https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
-- **Code:** https://github.com/Matheus-dotcom-bot
+High-performance full-stack products
 
----
+🏗 Architecture Principles
 
-## Links
-- **LinkedIn:** https://www.linkedin.com/in/matheus-boeira-pedroso
-- **Microsoft Learn:** https://learn.microsoft.com/pt-br/users/matheuspedroso-0458/
-- **GitHub:** https://github.com/Matheus-dotcom-bot
+AI as core layer
 
----
+Security by default
 
-## Contact
-- **WhatsApp:** https://wa.me/5551992115015?text=Hello%2C%20I%20came%20from%20GitHub!
+Modular & scalable systems
 
-They reflect my learning process and my ability
-to translate theory into working code.
+Performance-oriented design
+
+Clean and maintainable code
+
+🛠 Tech Stack
+
+Languages
+Python • TypeScript • JavaScript • SQL
+
+Frontend
+React • Next.js • TailwindCSS
+
+Backend
+Node.js • REST APIs • Modular Design
+
+Cloud & DevOps
+Vercel • CI/CD • GitHub Actions
+
+🌐 Live Platform
+Hyperion Cyber
+
+Secure AI-ready digital platform.
+
+Live
+https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
+
+Repository
+
+
+Innovation-Focused Founder Mindset.
