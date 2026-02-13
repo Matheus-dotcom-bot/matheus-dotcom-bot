@@ -6,46 +6,51 @@
 
 
 
-# 👋 Olá / Hi, I'm Matheus Boeira Pedroso
+# Matheus Boeira Pedroso
+**AI Engineer • Software Architect • Full-Stack Builder**
 
-## 🇧🇷 Português
+I build scalable software and AI-driven systems with an emphasis on **architecture, performance, automation, and secure engineering**.
 
-Sou um desenvolvedor em aprendizado contínuo.  
-Utilizo este GitHub para documentar projetos de estudo, experimentos e prática técnica,
-com foco em aprender por meio da implementação.
-
-Grande parte dos projetos utiliza phyton, Java, JS e etc. priorizando experimentação,
-validação de conceitos e aprendizado prático.
-
-### 🧠 Áreas de interesse
-- Desenvolvimento de Software  
-- Sistemas e conceitos de computação  
-- Experimentação técnica  
-- Aprendizado contínuo por meio da prática  
-
-### 📌 Nota para recrutadores
-Os repositórios deste perfil têm caráter educacional e experimental.
-Eles representam meu processo de aprendizado e minha capacidade
-de transformar teoria em código funcional.
+- **Focus:** AI Engineering, System Design, Automation, Security
+- **Approach:** Product mindset + engineering rigor
+- **Goal:** Contribute to high-impact innovation projects
 
 ---
 
-## 🇺🇸 English
+## What I Do
+- Design and implement **scalable architectures** (modular, maintainable, production-ready)
+- Build **AI-enabled workflows** to increase productivity and reduce operational overhead
+- Develop **full-stack applications** with strong UX and performance constraints
+- Apply **security-first** thinking across code, data, and deployments
 
-I am a developer in continuous learning.  
-This GitHub is used to document study projects, experiments,
-and hands-on practice, focusing on learning through implementation.
+---
 
-Most projects use phyton, Java, JS e etc. prioritizing experimentation,
-concept validation, and practical learning.
+## Tech Stack
+**Languages:** Python • TypeScript • JavaScript • SQL  
+**Frontend:** React • Next.js • TailwindCSS  
+**Backend:** Node.js • REST APIs • Modular Architecture  
+**DevOps/Cloud:** CI/CD • GitHub Actions • Vercel  
 
-### 🧠 Areas of Interest
-- Software Development  
-- Systems and Computing Concepts  
-- Technical Experimentation  
-- Continuous Learning through Practice  
+---
 
-### 📌 Note for Recruiters
-The repositories in this profile are educational and exploratory by design.
+## Featured Project
+### Hyperion Cyber Platform
+A modern platform focused on performance-driven UI and clean architecture.
+
+- **Live:** https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
+- **Code:** https://github.com/Matheus-dotcom-bot
+
+---
+
+## Links
+- **LinkedIn:** https://www.linkedin.com/in/matheus-boeira-pedroso
+- **Microsoft Learn:** https://learn.microsoft.com/pt-br/users/matheuspedroso-0458/
+- **GitHub:** https://github.com/Matheus-dotcom-bot
+
+---
+
+## Contact
+- **WhatsApp:** https://wa.me/5551992115015?text=Hello%2C%20I%20came%20from%20GitHub!
+
 They reflect my learning process and my ability
 to translate theory into working code.
