@@ -1,68 +1,61 @@
-<a href="https://app.rocketseat.com.br/me/matheus-boeira-pedroso"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-boeira-pedroso&type=card" width="280" alt="Matheus Boeira Pedroso's Rocket ID"/></a>
+# ⚡ Matheus Boeira Pedroso
 
-### Contato
-[WhatsApp](https://wa.me/5551992115015?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!) · [LinkedIn](https://www.linkedin.com/in/matheus-boeira-pedroso)
+**AI Systems • Cybersecurity • Software Architecture**
 
+Construindo projetos de software com foco em **IA, segurança, automação, engenharia de sistemas e performance**.
 
+## 🧠 Direção técnica
 
+- Arquitetura modular e sustentável
+- Segurança desde o desenho da solução
+- Automação de processos
+- Sistemas orientados a dados
+- Experimentação e benchmarking
+- Desenvolvimento web e aplicações de software
 
-⚡ Matheus Boeira Pedroso
-AI Systems • Cybersecurity • Scalable Architecture
+## 🛠️ Stack
 
-Building AI-native systems with security-first architecture and product-driven execution.
+**Linguagens:** Python • TypeScript • JavaScript • SQL
 
-🧠 Mission
+**Web:** HTML5 • CSS3 • React/Next.js quando aplicável
 
-To design and deploy intelligent, secure and scalable digital systems
-where AI is infrastructure, not feature.
+**Backend & APIs:** Node.js • APIs REST • Python
 
-🚀 What I'm Building
+**Cloud & DevOps:** Vercel • GitHub Actions • CI/CD
 
-AI-powered applications
+## 🚀 Projetos em destaque
 
-Secure digital platforms
+### PROJECT-NEURO-K
+PoC de **adaptive computational offloading** para multiplicação de matrizes, com monitoramento de memória, calibração de desempenho e transporte binário via ZeroMQ.
 
-Automation systems for operational leverage
+[Ver repositório →](https://github.com/Matheus-dotcom-bot/PROJECT-NEURO-K)
 
-Modular, scalable web architectures
+### Monitoramento de Biomas — UERGS
+Protótipo acadêmico para organização de observações ambientais e integração client-side com dados GeoJSON e mapas.
 
-High-performance full-stack products
+[Ver repositório →](https://github.com/Matheus-dotcom-bot/monitoramento-biomas-uergs)
 
-🏗 Architecture Principles
+### Hyperion Cybersecurity Brasil
+Landing page estática com identidade visual de cybersecurity e arquitetura deliberadamente leve.
 
-AI as core layer
+[Ver repositório →](https://github.com/Matheus-dotcom-bot/Matheus-dotcom-bot-Hyperion-Cybersecurity-Brasil)
 
-Security by default
+### Connect Hub
+Página pessoal estática para centralizar contatos e portfólio.
 
-Modular & scalable systems
+[Ver repositório →](https://github.com/Matheus-dotcom-bot/Profile)
 
-Performance-oriented design
+## 🎯 Princípio
 
-Clean and maintainable code
+> **Construir, medir, revisar e melhorar.**
 
-🛠 Tech Stack
+Os projetos deste perfil são apresentados de acordo com seu estágio real — protótipo, PoC ou produção — sem atribuir resultados experimentais que ainda não tenham sido medidos.
 
-Languages
-Python • TypeScript • JavaScript • SQL
+## 🌐 Portfólio
 
-Frontend
-React • Next.js • TailwindCSS
+[Hyperion Cybersecurity — plataforma online](https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/)
 
-Backend
-Node.js • REST APIs • Modular Design
+---
 
-Cloud & DevOps
-Vercel • CI/CD • GitHub Actions
-
-🌐 Live Platform
-Hyperion Cyber
-
-Secure AI-ready digital platform.
-
-Live
-https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
-
-
-
-
-# Innovation-Focused Founder Mindset.
+**Matheus Boeira Pedroso**  
+Software Systems • Cybersecurity • AI
