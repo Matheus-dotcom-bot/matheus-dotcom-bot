@@ -76,6 +76,10 @@ Isso também significa documentar limitações, registrar premissas e evoluir os
 **Hyperion Cybersecurity — plataforma online**  
 https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
 
+## 🌐 Portfólio
+
+O GitHub é a porta de entrada para os projetos. O **PROJECT-NEURO-K** é o principal projeto técnico experimental deste perfil, enquanto Hyperion e o Connect Hub complementam as frentes de cybersecurity e presença profissional.
+
 ## 📫 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/matheus-boeira-pedroso
