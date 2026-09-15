@@ -1,84 +1,154 @@
 # ⚡ Matheus Boeira Pedroso
 
-**AI Systems • Cybersecurity • Software Architecture**
+**AI Systems • Cybersecurity • Data Engineering • Software Architecture**
 
-Construo e estudo sistemas de software com foco em **IA aplicada, segurança, automação, engenharia de sistemas, dados e performance**.
+Desenvolvimento de projetos com foco em **IA aplicada, segurança, engenharia de software, dados, sistemas distribuídos, automação e performance**.
 
-Meu trabalho combina prototipação, experimentação e documentação técnica, buscando deixar claro **o que foi implementado, o que foi medido e o que ainda é hipótese**.
+O perfil reúne projetos acadêmicos, experimentais e de engenharia, mantendo uma distinção explícita entre **protótipo, PoC, execução medida e hipótese**.
 
-## 🧭 Áreas de interesse
+## 🧭 Áreas de atuação e estudo
 
 - 🧠 **AI Systems & Experimentation** — prototipação, avaliação e benchmarking
-- 🛡️ **Cybersecurity** — secure-by-design, desenvolvimento seguro e postura de segurança
+- 🛡️ **Cybersecurity** — secure-by-design, desenvolvimento seguro e gestão de riscos
 - ⚙️ **Software Architecture** — sistemas modulares, integração e evolução incremental
-- 📊 **Data & Geospatial Systems** — organização de dados, GeoJSON e visualização
-- 🚀 **Automation & DevOps** — CI/CD, GitHub Actions e automação de workflows
-- 🌐 **Web Engineering** — aplicações e interfaces leves, com atenção a desempenho e manutenção
+- 📊 **Data Engineering** — pipelines, streaming, CDC e processamento de eventos
+- 🌿 **Environmental & Geospatial Systems** — monitoramento ambiental, GeoJSON e SIG
+- 🚀 **Automation & DevOps** — GitHub Actions, CI/CD, infraestrutura como código e Vercel
+- 🌐 **Web Engineering** — aplicações web leves, interfaces e APIs
 
-## 🛠️ Stack
+## 🛠️ Tecnologias
 
 | Área | Tecnologias |
 | --- | --- |
-| **Linguagens** | Python • TypeScript • JavaScript • SQL |
-| **Web** | HTML5 • CSS3 • React / Next.js quando aplicável |
-| **Backend & APIs** | Node.js • Python • REST APIs |
-| **Dados & Sistemas** | NumPy • GeoJSON • ZeroMQ |
-| **Cloud & DevOps** | Vercel • GitHub Actions • CI/CD |
+| **Linguagens** | Python • JavaScript • TypeScript • SQL • C |
+| **IA & Computação** | NumPy • álgebra linear • benchmarking • offloading computacional |
+| **Web & APIs** | HTML5 • CSS3 • React / Next.js • FastAPI • REST |
+| **Dados & Streaming** | PostgreSQL • Apache Kafka • Confluent Cloud • Apache Flink SQL • Debezium |
+| **Sistemas** | ZeroMQ • TCP • Linux • BLAS |
+| **Geoespacial** | GeoJSON • Leaflet • SIG |
+| **Cloud & DevOps** | Vercel • GitHub Actions • Terraform • Docker |
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos
 
-### 🧠 [PROJECT-NEURO-K](https://github.com/Matheus-dotcom-bot/PROJECT-NEURO-K)
-**Proof of Concept — Adaptive Computational Offloading**
+## 🧠 [PROJECT-NEURO-K](https://github.com/Matheus-dotcom-bot/PROJECT-NEURO-K)
 
-PoC experimental para decisão entre execução local e offloading computacional remoto em multiplicação de matrizes. O projeto inclui calibração, estimativa de memória, transporte binário de buffers NumPy via ZeroMQ, testes automatizados e pipeline de benchmark.
+**Adaptive Computational Offloading — Proof of Concept**
 
-**Estado:** funcional / experimental. Resultados de benchmark são identificados como **simulados** ou **medidos**, conforme sua origem.
+PoC experimental que investiga quando uma carga de álgebra linear deve ser executada localmente ou transferida para um worker remoto. Utiliza **Python, NumPy, ZeroMQ/TCP, calibração, estimativa de memória, testes automatizados e benchmark**.
 
-### 🌿 [Monitoramento de Biomas — UERGS](https://github.com/Matheus-dotcom-bot/monitoramento-biomas-uergs)
-**Protótipo acadêmico — Dados ambientais e geoespaciais**
+- decisão adaptativa baseada em medições de calibração;
+- transporte binário de buffers NumPy;
+- worker remoto funcional;
+- API FastAPI como baseline cloud na Vercel;
+- testes unitários e de integração;
+- separação explícita entre dados `SIMULATED` e `MEASURED`.
 
-Aplicação client-side para organização de observações biológicas e integração com dados GeoJSON e mapas Leaflet.
+**Estado:** PoC funcional / experimental. Os resultados simulados não são apresentados como evidência experimental.
 
-**Estado:** protótipo acadêmico funcional; sem backend ou persistência de produção.
+---
 
-### 🛡️ [Hyperion Cybersecurity Brasil](https://github.com/Matheus-dotcom-bot/Matheus-dotcom-bot-Hyperion-Cybersecurity-Brasil)
-**Landing page — Cybersecurity**
+## 💳 [Pipeline de Pagamentos — Confluent Cloud](https://github.com/Matheus-dotcom-bot/pipeline-pagamentos-confluent-cloud)
 
-Projeto web estático voltado à apresentação de uma proposta de consultoria em cybersecurity, com arquitetura leve, dependências reduzidas e documentação explícita do seu escopo.
+**Real-Time Payment Data Pipeline**
 
-**Estado:** landing page ativa; não é apresentada como plataforma operacional de segurança.
+Projeto de engenharia de dados para processamento de pagamentos em streaming, estruturado de ponta a ponta com **PostgreSQL, CDC/Debezium, Apache Kafka, Confluent Cloud e Flink SQL**.
 
-### 🔗 [Connect Hub](https://github.com/Matheus-dotcom-bot/Profile)
-**Hub pessoal — Web estática**
+Arquitetura principal:
 
-Página minimalista para centralização de contatos profissionais, GitHub, LinkedIn e portfólio.
+```text
+PostgreSQL
+    ↓
+CDC / Debezium
+    ↓
+Confluent Cloud / Kafka
+    ↓
+Apache Flink SQL
+    ├── enriquecimento
+    ├── classificação de risco
+    └── detecção de suspeitas
+    ↓
+Consumer
+```
 
-**Estado:** aplicação estática.
+Inclui infraestrutura como código com Terraform, consumidor Python, validações operacionais e estrutura para evidências reais de execução.
 
-## 🔬 Como trabalho
+**Estado:** infraestrutura base implementada; integração real com Confluent Cloud e evidências de execução são a próxima etapa.
+
+---
+
+## 🛡️ [Hyperion Cybersecurity Brasil](https://github.com/Matheus-dotcom-bot/Matheus-dotcom-bot-Hyperion-Cybersecurity-Brasil)
+
+**Landing Page — Cybersecurity**
+
+Landing page estática experimental para uma proposta de atuação em cybersecurity, com foco em **S-SDLC, gestão de vulnerabilidades e práticas relacionadas à LGPD**.
+
+- HTML5 + CSS3 + JavaScript mínimo;
+- arquitetura estática e responsiva;
+- escopo separado de plataformas operacionais de segurança;
+- documentação de limites e requisitos para produção;
+- demonstração hospedada na Vercel.
+
+**Estado:** protótipo web ativo.
+
+---
+
+## 🌿 [Monitoramento de Biomas — UERGS Litoral Norte](https://github.com/Matheus-dotcom-bot/monitoramento-biomas-uergs)
+
+**Protótipo acadêmico — Monitoramento ambiental e geoespacial**
+
+Aplicação client-side para organização de observações ambientais, integração com **GeoJSON** e visualização cartográfica com **Leaflet**, com foco acadêmico em Imbé/RS.
+
+- cadastro local de observações;
+- tabela dinâmica;
+- camadas GeoJSON;
+- mapa interativo;
+- validação básica de dados;
+- cuidados contra XSS na renderização dos registros.
+
+**Estado:** protótipo acadêmico funcional; ainda sem backend, autenticação ou persistência de produção.
+
+---
+
+## 🔗 [Connect Hub — Profile](https://github.com/Matheus-dotcom-bot/Profile)
+
+**Hub profissional pessoal**
+
+Landing page estática para centralizar conexões profissionais, GitHub, LinkedIn e portfólio.
+
+**Estado:** aplicação web estática / Connect Hub.
+
+---
+
+## 👤 [Repositório de perfil](https://github.com/Matheus-dotcom-bot/matheus-dotcom-bot)
+
+Este próprio repositório funciona como **índice técnico do portfólio**, reunindo os projetos e as principais áreas de estudo e desenvolvimento.
+
+## 🔬 Princípio de desenvolvimento
 
 > **Construir → medir → revisar → melhorar.**
 
-Procuro manter uma separação clara entre **PoC, protótipo, experimento e produção**. Quando um resultado ainda não foi validado em ambiente real, ele não é apresentado como resultado experimental definitivo.
+A documentação procura deixar claro:
 
-Isso também significa documentar limitações, registrar premissas e evoluir os projetos de forma incremental em vez de esconder lacunas técnicas.
+- o que foi realmente implementado;
+- o que foi medido;
+- o que é simulação;
+- quais são as limitações;
+- quais etapas ainda dependem de validação real.
 
-## 📈 O que este perfil demonstra
+## 📈 O que o portfólio demonstra
 
-- Capacidade de transformar uma ideia em um **artefato executável**.
-- Preocupação com **testabilidade e reprodutibilidade**.
-- Uso de **benchmarking e evidências** para avaliar decisões técnicas.
-- Integração entre **software, segurança, dados e infraestrutura**.
-- Documentação do estado real dos projetos, incluindo suas limitações.
+- desenvolvimento de artefatos executáveis;
+- integração entre software, dados e infraestrutura;
+- preocupação com testes e reprodutibilidade;
+- uso de CI/CD e automação;
+- experimentação técnica documentada;
+- desenvolvimento web e cloud;
+- aplicações acadêmicas com dados ambientais e geoespaciais.
 
-## 🌐 Portfólio
+## 🌐 Demonstrações
 
-**Hyperion Cybersecurity — plataforma online**  
-https://matheus-dotcom-bot-hyperion-cyberse-six.vercel.app/
-
-## 🌐 Portfólio
-
-O GitHub é a porta de entrada para os projetos. O **PROJECT-NEURO-K** é o principal projeto técnico experimental deste perfil, enquanto Hyperion e o Connect Hub complementam as frentes de cybersecurity e presença profissional.
+**Hyperion Cybersecurity**  
+https://matheus-dotcom-bot-hyperse-cyberse-six.vercel.app/
 
 ## 📫 Contato
 
@@ -88,4 +158,4 @@ O GitHub é a porta de entrada para os projetos. O **PROJECT-NEURO-K** é o prin
 ---
 
 **Matheus Boeira Pedroso**  
-*Software Systems • Cybersecurity • AI*
+*AI Systems • Cybersecurity • Data Engineering • Software Architecture*
